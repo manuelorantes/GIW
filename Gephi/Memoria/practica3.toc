@@ -1,0 +1,28 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Selección del medio social, definición de la pregunta y obtención del conjunto datos asociado}{3}{section.1}%
+\contentsline {section}{\numberline {2}Construcción de la red social a analizar y visualizar}{3}{section.2}%
+\contentsline {section}{\numberline {3}Cálculo de los valores de las medidas de análisis}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Grado medio}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Diámetro y distancia media}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Conectividad de la red}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Determinación de las propiedades de la red}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Distribución de grado}{5}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Entrada}{5}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Salida}{5}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}¿La red es libre de escala?}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Distribución de distancia}{6}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Distribución de coeficientes de clustering}{6}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Cálculo de los valores de las medidas de análisis de redes sociales}{7}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Grado}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Intermediación}{8}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Cercanía}{9}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Vector propio}{9}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Conclusiones en cuanto a las medidas de análisis de las redes}{10}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Descubrimiento de comunidades en la red}{10}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Lovaina}{10}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Girvan-Newman}{11}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Visualización de la red social}{13}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Representación 1}{13}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Representación 2}{14}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Easter Egg}{15}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Discusión de los resultados obtenidos}{16}{section.8}%
